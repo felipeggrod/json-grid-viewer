@@ -58,7 +58,7 @@ class JsonGridViewer {
 					style-src ${this.webviewPanel.webview.cspSource};
 					script-src 'nonce-${nonce}';"
 				/>
-				<title>JSON Grid viewer</title>
+				<title>JSON Grid & Table Editor</title>
 				<link href="${appCssUri}" rel="stylesheet">
 			</head>
 			<body>
