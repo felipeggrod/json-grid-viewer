@@ -10,10 +10,15 @@
     <span class="object collapsed">
       <span class="object badge">Object[{{ Object.keys( element ).length}}]</span>
       <span class="expand" @click="toggleExpanded">{{ expanded ? '-' : '+' }}</span>
+      
+      <span class="object badge">Collapse All[{{ Object.keys( element ).length}}]</span>
+      <span class="expand" @click="toggleExpanded">{{ expanded ? '-' : '+' }}</span>
+      <span class="object badge">Expand All[{{ Object.keys( element ).length}}]</span>
+      <span class="expand" @click="toggleExpanded">{{ expanded ? '-' : '+' }}</span>
     </span>
     <object-table v-if="expanded" :member="element" />
   </template>
-  <span v-else :class="['value', (element === null ? 'null' : typeof element)]">{{ element }}</span>
+  <span contentEditable="true" v-else :class="['value', (element === null ? 'null' : typeof element)]">{{ element }}</span>
 </template>
 
 <script>

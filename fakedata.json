@@ -1,0 +1,3308 @@
+{
+  "items": [
+    {
+      "id": "2h_axe_iron_0001",
+      "name": "2H Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "776f65bd-0d42-45f1-8d3b-840dc5e19cf2",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_axe_iron_0002",
+      "name": "2H Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "c7de4e20-4eac-49c9-90e5-bf44fb1c2371",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_bow_wood_001",
+      "name": "2H Bow Wood ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 5,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "268e595d-34f4-4f5d-8e65-0a2d67c60d54",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_bow_wood_long",
+      "name": "2H Bow Wood Long",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 5,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "cd1e83c4-29a3-4883-b8b6-083a1a3f261f",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_bow_wood_reinforced_001",
+      "name": "2H Bow Wood Reinforced ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 5,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "ddaa81c6-ab5e-407c-a54d-3e2b1435de9f",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_bow_wood_reinforced_long",
+      "name": "2H Bow Wood Reinforced Long",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 5,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "bd38ed70-405d-435d-bf5f-eb6ef8c7453a",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_crossbow_crossbow",
+      "name": "2H Crossbow Crossbow",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 4,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "5838ed8b-c028-439d-83fb-b9df30fc58fb",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_crossbow_heavy_crossbow",
+      "name": "2H Crossbow Heavy Crossbow",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 4,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "324aeaa6-4649-4a4f-8d0a-07611444aff4",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_hammer_iron_0001",
+      "name": "2H Hammer Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 2,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "3d13992c-b9db-4f38-80e7-8753aff978f6",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_hammer_iron_0002",
+      "name": "2H Hammer Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 2,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "6e08043f-f3c1-45ec-a62c-0f3ac16ef8ce",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_handgun_handcrossbow",
+      "name": "2H Handgun Handcrossbow",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 1,
+        "damageType": 0,
+        "weaponClass": 6,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "54791ba7-b3cc-4db7-a456-de70132dc50d",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_mace_iron",
+      "name": "2H Mace Iron",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 3,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "a7e86a73-9323-4ed4-87a2-f9fec828912f",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_staff_gold",
+      "name": "2H Staff Gold",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 7,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "9a1ba3e3-d62e-43be-9f9b-b6c16ca40dcc",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_staff_iron",
+      "name": "2H Staff Iron",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 7,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "4ef49beb-0b22-4ccb-b07e-2d3bcd5444fb",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_staff_wood",
+      "name": "2H Staff Wood",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 7,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "222d27b6-8646-42c7-8c80-39c312f94d68",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_sword_cutter",
+      "name": "2H Sword Cutter",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "5f70907f-d4db-4177-b773-ecc1b587f4b3",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_sword_gold",
+      "name": "2H Sword Gold",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "b85d3892-4565-428d-9fe7-366158485e51",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_sword_iron_0021",
+      "name": "2H Sword Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "7be4ead7-584f-46b6-9bd8-88a3c9a844cf",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_sword_iron_0022",
+      "name": "2H Sword Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "26e93ddb-5430-49e3-a85b-a87d400821eb",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "2h_sword_iron_0023",
+      "name": "2H Sword Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 1,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "c0a55903-7210-4c07-8c39-2f497225fbaa",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "arrow_wood",
+      "name": "Arrow Wood",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "951b355a-1c4a-4e6c-aa36-9177074c0500",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_001",
+      "name": "Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "9de757e8-5855-4031-91f0-615703b8e710",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_002",
+      "name": "Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "8c9d243f-fdf7-4e30-8c4c-7fef33b78012",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_003",
+      "name": "Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 40.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "b26b57c4-60e9-4530-84f4-de5927b79c17",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_004",
+      "name": "Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "d08761d9-c96f-4f13-9972-1d49d62f0fab",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_005",
+      "name": "Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "be5fd22b-ec51-4fe8-a155-f7532bb915bd",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_006",
+      "name": "Axe Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "8eb412ab-757d-485d-b2d4-2bbd5b7d28e8",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_iron_reinforced",
+      "name": "Axe Iron Reinforced",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "bfe8fc0c-e631-475e-b19c-397147720db2",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "axe_stone_001",
+      "name": "Axe Stone ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 1,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "b828ce45-50a5-472f-a5ee-1a3f5c138cc1",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_gold",
+      "name": "Dagger Gold",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "41b6e2e7-3b17-4aa1-8714-a7ffdc4fa700",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_001",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "0a9317a6-189b-4ddd-80bb-fec1312b76ea",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_002",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 40.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "de2eaaa2-b7d7-4dce-b74e-7c3b72b01925",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_003",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 40.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "95bdf6d3-723d-48a9-ae80-0b0552f9ee5d",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_004",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "08751a32-d11f-4c08-86a8-6fafb2002c60",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_005",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "524fa914-3f75-4853-8b08-cd98a2f5c253",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_006",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "265644fe-6099-419b-9683-ef9ad4f0da75",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "dagger_iron_007",
+      "name": "Dagger Iron ",
+      "rarity": 0,
+      "description": "",
+      "isStackable": false,
+      "maxStackSize": 1,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 0,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": ""
+      },
+      "recipe": {
+        "recipeId": "d780d8bb-bc65-4c08-b772-61fca14292a9",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    },
+    {
+      "id": "building_wooden_ceiling",
+      "name": "wooden_ceiling",
+      "rarity": 0,
+      "description": "",
+      "isStackable": true,
+      "maxStackSize": 10,
+      "instanceId": "",
+      "quantity": 1,
+      "hasDurability": false,
+      "MaxDurability": 0,
+      "currentDurability": 0,
+      "itemType": 3,
+      "weapon": {
+        "attackType": 0,
+        "damageType": 0,
+        "weaponClass": 0,
+        "weaponHold": 0,
+        "minDamage": 0.0,
+        "maxDamage": 0.0,
+        "avgDamagePerSecond": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 0.0,
+        "preAttackDelay": 0.0,
+        "attackSpeed": 0.0,
+        "range": 0.0,
+        "reloadTime": 0.0,
+        "magazineSize": 0.0,
+        "autoAttack": false
+      },
+      "equipment": {
+        "equipmentSlot": 0,
+        "modelName": "",
+        "defence": 0,
+        "defenceByDamageType": 0
+      },
+      "poopyResource": 0,
+      "building": {
+        "pieceBehaviourId": "building_wooden_ceiling"
+      },
+      "recipe": {
+        "recipeId": "72c465e0-cf42-49cb-bbc2-cc64cb3928b1",
+        "recipeName": "",
+        "duration": 1.0,
+        "tableType": 0,
+        "resultingItems": [],
+        "requiredMaterials": []
+      }
+    }
+  ],
+  "recipes": [
+    {
+      "recipeId": "ff62016d-868c-4d3a-bad7-a2d4513480f2",
+      "recipeName": "building_chest_placeable(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 0,
+      "resultingItems": [
+        {
+          "itemId": "building_chest_placeable",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "d781abb2-270a-4a7b-b43b-1b8c5a6f59e7",
+      "recipeName": "wooden_plank(x3) <= wood_raw(x2)",
+      "duration": 5.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 3
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wood_raw",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "recipeId": "28f2742b-388c-47ef-a14b-6fa637033ce0",
+      "recipeName": "ingot_iron(x1) <= ore_iron(x5)",
+      "duration": 300.0,
+      "tableType": 2,
+      "resultingItems": [
+        {
+          "itemId": "ingot_iron",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "ore_iron",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "b0fd7d71-24ef-4f1d-8053-a7df73997ef5",
+      "recipeName": "stone_brick(x1) <= stone_chunk1(x5)",
+      "duration": 300.0,
+      "tableType": 2,
+      "resultingItems": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_chunk1",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "4c1c2784-7c41-4bf9-95ed-1fb0603b9d22",
+      "recipeName": "ingot_steel(x1) <= ingot_iron(x3)",
+      "duration": 900.0,
+      "tableType": 2,
+      "resultingItems": [
+        {
+          "itemId": "ingot_steel",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "ingot_iron",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "recipeId": "525df957-f4f2-4898-8c1c-5629aab2495d",
+      "recipeName": "building_wooden_door_door(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_door_door",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "315d2f5f-dead-424e-8d75-7cea17c90f06",
+      "recipeName": "building_wooden_doorway(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_doorway",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "f175db49-15fc-4c41-9c74-f9e45a60f419",
+      "recipeName": "building_wooden_floor(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_floor",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "db31f3e7-7a37-4cb7-b2a2-085fe4c1c29d",
+      "recipeName": "building_wooden_foundation(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_foundation",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "49da62bb-d042-46a8-b614-1ca38135b0c7",
+      "recipeName": "building_wooden_wall(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_wall",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "b0162540-b36d-4d0c-8715-9a772d6905da",
+      "recipeName": "building_wooden_stair(x1) <= wooden_plank(x5)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_stair",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "b920568f-76ed-498e-abc8-82be243cec89",
+      "recipeName": "ownership_totem_1(x1)_<=_(x1)",
+      "duration": 10.0,
+      "tableType": 0,
+      "resultingItems": [
+        {
+          "itemId": "building_ownership_totem_1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "4f114804-f36a-4d4e-9a7e-af956756abee",
+      "recipeName": "building_tudor_door_door(x1) <= stone_brick(x10) <= wooden_plank(x10)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_door_door",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 10
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "f75b7965-9b5f-4a37-a4a0-20b223e62026",
+      "recipeName": "building_tudor_doorway(x1) <= stone_brick(x10) <= wooden_plank(x10)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_doorway",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 10
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "ea231a09-c136-4052-abf4-0bb084308478",
+      "recipeName": "building_tudor_floor(x1)_<=_stone_brick(x10)_<=_wooden_plank(x10)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_floor",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 10
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "38b747a7-6a47-4868-aa72-f4cdfd783844",
+      "recipeName": "building_tudor_foundation(x1)_<=_stone_brick(x10)_<=_wooden_plank(x10)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_foundation",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 10
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "f85b7301-5f5a-4ff1-b433-dd5176a0df0b",
+      "recipeName": "building_tudor_stair(x1)_<=_stone_brick(x10)_<=_wooden_plank(x10)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_stair",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 10
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "48a4e8c3-1983-460b-8517-505bea3240fd",
+      "recipeName": "building_tudor_wall(x1)_<=_stone_brick(x10)_<=_wooden_plank(x10)",
+      "duration": 30.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_wall",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 10
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "dc2f485c-25cd-420c-a4a2-362bb55978cb",
+      "recipeName": "building_workbench_placeable(x1) <= (x1)",
+      "duration": 10.0,
+      "tableType": 0,
+      "resultingItems": [
+        {
+          "itemId": "building_workbench_placeable",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "d223cbfd-8619-4309-af53-145a13bd8dec",
+      "recipeName": "scroll(x1) <= wood_raw(x1)",
+      "duration": 1.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "scroll",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wood_raw",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "cc855da7-3ee3-41db-b922-79eb3a5025e6",
+      "recipeName": "mana_ball_1(x1)npc_slime(x2) <= npc_slime(x2) <= egg_raw(x1)",
+      "duration": 60.0,
+      "tableType": 3,
+      "resultingItems": [
+        {
+          "itemId": "mana_ball_i_01",
+          "quantity": 1
+        },
+        {
+          "itemId": "npc_slime",
+          "quantity": 2
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "npc_slime",
+          "quantity": 2
+        },
+        {
+          "itemId": "egg_raw",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "d98ad28e-bfb3-4d1a-8a9f-2c92b2f952ca",
+      "recipeName": "npc_chicken(x2)egg_raw(x1) <= npc_chicken(x1) <= (x1)",
+      "duration": 60.0,
+      "tableType": 3,
+      "resultingItems": [
+        {
+          "itemId": "egg_raw",
+          "quantity": 1
+        },
+        {
+          "itemId": "npc_chicken",
+          "quantity": 2
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "npc_chicken",
+          "quantity": 2
+        },
+        {
+          "itemId": "carrot_raw",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "b958f510-042f-4ee7-96e0-48ce076b9e12",
+      "recipeName": "carrot_raw(x3) <= carrot_seed(x3)",
+      "duration": 60.0,
+      "tableType": 4,
+      "resultingItems": [
+        {
+          "itemId": "carrot_raw",
+          "quantity": 3
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "carrot_seed",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "recipeId": "3318acfa-e885-4d11-aee1-6423b69a2be6",
+      "recipeName": "carrot_raw(x6) <= carrot_seed(x6)",
+      "duration": 60.0,
+      "tableType": 4,
+      "resultingItems": [
+        {
+          "itemId": "carrot_raw",
+          "quantity": 6
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "carrot_seed",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "recipeId": "7c6f006c-d324-450c-ab2a-f971d0306814",
+      "recipeName": "carrot_raw(x9) <= carrot_raw(x9)",
+      "duration": 60.0,
+      "tableType": 4,
+      "resultingItems": [
+        {
+          "itemId": "carrot_raw",
+          "quantity": 9
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "carrot_seed",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "recipeId": "cac71584-1409-4969-afad-951c670a5cdb",
+      "recipeName": "coin_silver(x1) <= (x1)",
+      "duration": 1.0,
+      "tableType": 5,
+      "resultingItems": [
+        {
+          "itemId": "coin_silver",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_copper",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "f1f07c21-32b6-4801-8898-f49c1e1b6182",
+      "recipeName": "coin_gold(x1) <= (x1)",
+      "duration": 1.0,
+      "tableType": 5,
+      "resultingItems": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_silver",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "968cc829-2951-438c-ba08-81154d028404",
+      "recipeName": "coin_silver(x10) <= (x1)",
+      "duration": 1.0,
+      "tableType": 5,
+      "resultingItems": [
+        {
+          "itemId": "coin_silver",
+          "quantity": 10
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "069c3e81-ce82-452f-a506-eaa89e1d6115",
+      "recipeName": "coin_copper(x10) <= (x1)",
+      "duration": 1.0,
+      "tableType": 5,
+      "resultingItems": [
+        {
+          "itemId": "coin_copper",
+          "quantity": 10
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_silver",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "036ea624-8880-4597-ab42-722d84a3ef28",
+      "recipeName": "coin_copper(x5) <= mana_ball_i_01(x10)",
+      "duration": 1.0,
+      "tableType": 5,
+      "resultingItems": [
+        {
+          "itemId": "coin_copper",
+          "quantity": 5
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "mana_ball_i_01",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "91a817bb-b7e0-4d85-a987-a1932250d4a6",
+      "recipeName": "carrot_seed(x10) <= ore_copper(x1)",
+      "duration": 1.0,
+      "tableType": 8,
+      "resultingItems": [
+        {
+          "itemId": "carrot_seed",
+          "quantity": 10
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_copper",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "recipeId": "3fc5e39b-7be4-4c52-8fbe-93506c45606e",
+      "recipeName": "ore_copper(x1) <= wood_raw(x1)",
+      "duration": 1.0,
+      "tableType": 8,
+      "resultingItems": [
+        {
+          "itemId": "coin_copper",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wood_raw",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "149218d3-167e-45f6-978f-7c46be92fb0e",
+      "recipeName": "wizard_boots1(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "wizard_boots1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "5e71778d-3e21-46c7-9743-ebb1b267b343",
+      "recipeName": "wizard_legs1(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "wizard_legs1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "eef11b6f-057a-4eeb-a66e-91a167e40be6",
+      "recipeName": "wizard_torso1(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "wizard_torso1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "bfe40c3e-950b-42fd-bdea-4f914f4f745c",
+      "recipeName": "wizard_head1(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "wizard_head1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "4263b5bb-6c88-4c30-b65e-b94526b071eb",
+      "recipeName": "knight_boots(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "knight_boots",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "37e461b1-2a74-4e1d-95ea-64ec5de9d58c",
+      "recipeName": "knight_legs(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "knight_legs",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "bf9ab6de-2378-48c7-a32b-a3722b04914e",
+      "recipeName": "knight_torso(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "knight_torso",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "3cbf5505-9960-4e59-8bbc-9ed4a29cfaf5",
+      "recipeName": "knight_head2(x1) <= coin_gold(x1)",
+      "duration": 1.0,
+      "tableType": 7,
+      "resultingItems": [
+        {
+          "itemId": "knight_head2",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_gold",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "7d4f09c6-2d48-4574-9f33-9538e7f01c6b",
+      "recipeName": "axe_iron_003(x1) <= coin_silver(x5)",
+      "duration": 1.0,
+      "tableType": 6,
+      "resultingItems": [
+        {
+          "itemId": "axe_iron_003",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_silver",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "e43a1f71-584b-49b1-bea8-ed9466419b71",
+      "recipeName": "dagger_iron_002(x1) <= coin_silver(x5)",
+      "duration": 1.0,
+      "tableType": 6,
+      "resultingItems": [
+        {
+          "itemId": "dagger_iron_002",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_silver",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "cd312468-b6bb-464c-a6b9-3c0b7b2f152d",
+      "recipeName": "sword_iron_3(x1) <= coin_copper(x5)",
+      "duration": 1.0,
+      "tableType": 6,
+      "resultingItems": [
+        {
+          "itemId": "sword_iron_3",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "coin_copper",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "df45b8f0-af2b-46d1-a23f-a2d567b84042",
+      "recipeName": "sword_wood(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 0,
+      "resultingItems": [
+        {
+          "itemId": "sword_wood",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "af0fb93e-2a2a-4bee-a7cb-5b481971b94c",
+      "recipeName": "pickaxe_stone_0(x1) <= wooden_plank(x5) <= (x1)",
+      "duration": 30.0,
+      "tableType": 6,
+      "resultingItems": [
+        {
+          "itemId": "pickaxe_stone_0",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        },
+        {
+          "itemId": "stone_chunk1",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "6cfe2244-82d6-4329-bc07-d48e77466742",
+      "recipeName": "mana_ball_ii_02(x1) <= mana_ball_i_01(x10)",
+      "duration": 60.0,
+      "tableType": 9,
+      "resultingItems": [
+        {
+          "itemId": "mana_ball_ii_02",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "mana_ball_i_01",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "c021aeec-0648-4407-8e79-340173046416",
+      "recipeName": "mana_ball_iii_03(x1) <= mana_ball_ii_02(x10)",
+      "duration": 180.0,
+      "tableType": 9,
+      "resultingItems": [
+        {
+          "itemId": "mana_ball_iii_03",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "mana_ball_ii_02",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "8170fe9b-2d8b-407e-992d-ad4811d153f3",
+      "recipeName": "mana_ball_iv_04(x1) <= mana_ball_iii_03(x10)",
+      "duration": 180.0,
+      "tableType": 9,
+      "resultingItems": [
+        {
+          "itemId": "mana_ball_iv_04",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "mana_ball_iii_03",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "ac8810d3-6a29-4696-851c-3b58808978b7",
+      "recipeName": "mana_ball_V_05(x1) <= mana_ball_iv_04(x10)",
+      "duration": 300.0,
+      "tableType": 9,
+      "resultingItems": [
+        {
+          "itemId": "mana_ball_V_05",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "mana_ball_iv_04",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "dab2ff96-9fbb-4126-a030-cbc8fc2907b2",
+      "recipeName": "building_tnt_pack_placeable(x1) <= (x1)",
+      "duration": 1.0,
+      "tableType": 9,
+      "resultingItems": [
+        {
+          "itemId": "building_mana_bomb_placeable",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "mana_ball_V_05",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "4bcab435-1c8b-45ad-abae-879ef22d5f82",
+      "recipeName": "axe_iron_003(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 10,
+      "resultingItems": [
+        {
+          "itemId": "axe_iron_003",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "ingot_iron",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "recipeId": "c9603936-1468-4be4-8645-9bf9506bba90",
+      "recipeName": "dagger_iron_002(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 10,
+      "resultingItems": [
+        {
+          "itemId": "dagger_iron_002",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "ingot_iron",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "recipeId": "23ae036f-ce3a-45cc-ba05-954ad2f70006",
+      "recipeName": "sword_iron_3(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 10,
+      "resultingItems": [
+        {
+          "itemId": "sword_iron_3",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "ingot_iron",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "recipeId": "97b0cef4-5708-4be6-898f-bc3612ffbe37",
+      "recipeName": "wooden_plank(x1) <= (x1)",
+      "duration": 10.0,
+      "tableType": 0,
+      "resultingItems": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wood_raw",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "e36de7af-4195-4d85-a418-359e2293c61a",
+      "recipeName": "building_architecture_workbench(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "building_architecture_workbench",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "1e092f52-dbe4-479d-b5d9-b6f07fb95259",
+      "recipeName": "building_forge(x1) <= ingot_iron(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "building_forge",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "ingot_iron",
+          "quantity": 3
+        },
+        {
+          "itemId": "wooden_plank",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "recipeId": "ef89b548-e381-4626-a90e-467d84501354",
+      "recipeName": "building_manaballs_crafter(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "building_manaballs_crafter",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "ee3b1bf9-bc0f-4e5d-85a4-17d48a9b7ce3",
+      "recipeName": "building_crop_planter_1(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "building_crop_planter_1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "92bd08b6-d9e5-4acf-8f59-4705723b7b5d",
+      "recipeName": "building_corral_1(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "building_corral_1",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "recipeId": "aa575f3d-47a4-4064-8582-9156ee5721af",
+      "recipeName": "building_furnace_placeable(x1) <= (x1)",
+      "duration": 30.0,
+      "tableType": 1,
+      "resultingItems": [
+        {
+          "itemId": "building_furnace_placeable",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_chunk1",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "recipeId": "7b288793-918e-4235-9ea1-f9e6a1f85ee6",
+      "recipeName": "carrot_seed(x9)carrot_raw(x9) <= carrot_raw(x9)",
+      "duration": 180.0,
+      "tableType": 4,
+      "resultingItems": [
+        {
+          "itemId": "carrot_seed",
+          "quantity": 9
+        },
+        {
+          "itemId": "carrot_raw",
+          "quantity": 9
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "carrot_raw",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "recipeId": "a489fe2b-99b7-495d-8d21-e121a6db8f94",
+      "recipeName": "carrot_raw(x1) <= carrot_seed(x1)",
+      "duration": 60.0,
+      "tableType": 4,
+      "resultingItems": [
+        {
+          "itemId": "carrot_raw",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "carrot_seed",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "d1eddabe-c540-4d04-b7a3-c6059f9e3ecd",
+      "recipeName": "building_wooden_ceiling(x1) <= (x1)",
+      "duration": 1.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_wooden_ceiling",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "wooden_plank",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "recipeId": "02aebb90-4871-429e-9c77-7e85c866259c",
+      "recipeName": "building_tudor_ceiling(x1) <= (x1)",
+      "duration": 1.0,
+      "tableType": 11,
+      "resultingItems": [
+        {
+          "itemId": "building_tudor_ceiling",
+          "quantity": 1
+        }
+      ],
+      "requiredMaterials": [
+        {
+          "itemId": "stone_brick",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "lootTables": [
+    {
+      "lootTableId": "e31aa4a6-4b6b-4a10-b02f-6429b959093b",
+      "lootTableName": "TreeDestroy",
+      "resultingItems": [
+        {
+          "itemId": "wood_raw",
+          "probability": 100.0,
+          "minQuantity": 3,
+          "maxQuantity": 5
+        }
+      ]
+    },
+    {
+      "lootTableId": "b87f412d-7cc2-41e4-8a06-eff1a36a90f3",
+      "lootTableName": "CoinChest",
+      "resultingItems": [
+        {
+          "itemId": "coin_copper",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 50
+        },
+        {
+          "itemId": "coin_silver",
+          "probability": 50.0,
+          "minQuantity": 1,
+          "maxQuantity": 20
+        },
+        {
+          "itemId": "coin_gold",
+          "probability": 25.0,
+          "minQuantity": 1,
+          "maxQuantity": 5
+        }
+      ]
+    },
+    {
+      "lootTableId": "f15d65f0-3465-4830-b657-62bd6b6c9187",
+      "lootTableName": "StoneFragment",
+      "resultingItems": [
+        {
+          "itemId": "stone_chunk1",
+          "probability": 25.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "lootTableId": "a6598a84-e3c5-4272-9c8c-45efca1a637a",
+      "lootTableName": "StoneDestroy",
+      "resultingItems": [
+        {
+          "itemId": "stone_chunk1",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        }
+      ]
+    },
+    {
+      "lootTableId": "1f6b97c9-d751-460d-967d-0658ecdcc1d7",
+      "lootTableName": "TreeFragment",
+      "resultingItems": [
+        {
+          "itemId": "wood_raw",
+          "probability": 50.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "lootTableId": "6cfee023-8d52-43b0-939d-3f570fc01bd3",
+      "lootTableName": "IronVeinDestroy",
+      "resultingItems": [
+        {
+          "itemId": "ore_iron",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        }
+      ]
+    },
+    {
+      "lootTableId": "49ffa921-4c02-4521-a049-ca0cac1e732a",
+      "lootTableName": "IronVeinFragment",
+      "resultingItems": [
+        {
+          "itemId": "ore_iron",
+          "probability": 10.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "lootTableId": "e0dbf8e9-0512-420c-929f-2b35af2d0f7a",
+      "lootTableName": "WolfDeath",
+      "resultingItems": [
+        {
+          "itemId": "beef_raw",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": "bone",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 3
+        },
+        {
+          "itemId": "leather_raw",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        }
+      ]
+    },
+    {
+      "lootTableId": "4929a583-2ab4-4e7c-a127-8c79994d00ed",
+      "lootTableName": "BearDeath",
+      "resultingItems": [
+        {
+          "itemId": "beef_raw",
+          "probability": 100.0,
+          "minQuantity": 3,
+          "maxQuantity": 5
+        },
+        {
+          "itemId": "bone",
+          "probability": 100.0,
+          "minQuantity": 3,
+          "maxQuantity": 10
+        },
+        {
+          "itemId": "animal_fat",
+          "probability": 100.0,
+          "minQuantity": 3,
+          "maxQuantity": 6
+        },
+        {
+          "itemId": "leather_raw",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        }
+      ]
+    },
+    {
+      "lootTableId": "594e83d5-d7e2-4cdb-b178-ad6266ab7beb",
+      "lootTableName": "ChickenDeath",
+      "resultingItems": [
+        {
+          "itemId": "chicken_legs",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": "bone",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "lootTableId": "649535fc-79c4-4f65-8239-0646a7aaf4bc",
+      "lootTableName": "CowDeath",
+      "resultingItems": [
+        {
+          "itemId": "beef_raw",
+          "probability": 100.0,
+          "minQuantity": 10,
+          "maxQuantity": 20
+        },
+        {
+          "itemId": "bone",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        },
+        {
+          "itemId": "animal_fat",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": "leather_raw",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        }
+      ]
+    },
+    {
+      "lootTableId": "30d6078f-5d91-4f80-b856-b8c49a1414c9",
+      "lootTableName": "PigDeath",
+      "resultingItems": [
+        {
+          "itemId": "beef_raw",
+          "probability": 100.0,
+          "minQuantity": 1,
+          "maxQuantity": 4
+        },
+        {
+          "itemId": "bone",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        },
+        {
+          "itemId": "animal_fat",
+          "probability": 100.0,
+          "minQuantity": 4,
+          "maxQuantity": 8
+        }
+      ]
+    },
+    {
+      "lootTableId": "b2410908-e16a-46c9-837a-28cb584311a1",
+      "lootTableName": "SlimeDeath",
+      "resultingItems": [
+        {
+          "itemId": "gem_crystal",
+          "probability": 100.0,
+          "minQuantity": 2,
+          "maxQuantity": 4
+        }
+      ]
+    }
+  ]
+}
