@@ -1,7 +1,7 @@
 {
   "name": "json-viewer",
   "publisher": "DutchIgor",
-  "displayName": "JSON Grid Viewer",
+  "displayName": "JSON Grid & Table Editor",
   "description": "Get a better overview of the content in a JSON file by viewing it in an resizable grid.",
   "icon": "icon.png",
   "galleryBanner": {
@@ -32,7 +32,7 @@
     "customEditors": [
       {
         "viewType": "jsonGridViewer.json",
-        "displayName": "JSON Grid",
+        "displayName": "JSON Grid & Table",
         "selector": [
           {
             "filenamePattern": "*.json"
@@ -49,6 +49,7 @@
     "vscode:prepublish": "npm run build"
   },
   "dependencies": {
+    "chokidar": "^3.5.3",
     "core-js": "^3.18.0",
     "vue": "^3.2.13"
   },
